@@ -1,5 +1,5 @@
 numpy==1.19.4
 pandas==1.1.4
-biogeme==3.2.6
+matplotlib
 jupyter
 jupyterlab
